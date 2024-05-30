@@ -1,0 +1,13 @@
+1) Git - 
+ - Collaboration tool
+ - Centralized repository
+ - Clone
+ - Commit & Push
+ - Pull
+
+
+2) Github/ Gitlab/ Codecommit/Bitbucket
+
+
+- Create a repository in Github
+- git clone https://github.com/velocityvimannagar/9thMarchBatch.git
